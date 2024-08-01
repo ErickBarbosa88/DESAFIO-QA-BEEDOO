@@ -1,6 +1,6 @@
 ### Links 
 - **Cenários de Testes:** [Google Docs - Cenários de Testes](https://docs.google.com/document/d/1avHmvPfLLP3J-iGenZR3DpebKAZ4EPfflNww9YXOyq0/edit?usp=sharing)
-- **Relatório de Bugs, Vulnerabilidades e Avaliações:** [Google Sheets - Relatório de Bugs encontrados](https://docs.google.com/spreadsheets/d/1iReSINRqtrQa62Egwen0_2lDJrkeJqo-/edit?usp=sharing&ouid=113059406305113632086&rtpof=true&sd=true)
+- **Relatório de Bugs:** [Google Sheets - Relatório de Bugs encontrados](https://docs.google.com/spreadsheets/d/1iReSINRqtrQa62Egwen0_2lDJrkeJqo-/edit?usp=sharing&ouid=113059406305113632086&rtpof=true&sd=true)
 
 
 ### Requisitos para Cadastro e Visualização de Cursos
