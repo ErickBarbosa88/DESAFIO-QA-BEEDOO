@@ -1,4 +1,0 @@
-possiveis erros que o site pdoe demonstrar: 
-
--seleção de data de inicio do curso ser menor que o do final do curso
--delete cursos criados 
